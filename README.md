@@ -1,16 +1,3 @@
-<p align="center"><img src="./assets/bot.png" width="10%"></p>
-<h1 align="center">Customer Care Bot</h1>
-<p align="center">Customer care bot for ecomm company which can solve faq and chitchat with users, can contact directly to team.</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/pipenv/locked/python-version/horizon733/customer-care-chatbot">
-  <img src="https://img.shields.io/github/pipenv/locked/dependency-version/horizon733/customer-care-chatbot/rasa?color=blueviolet&label=Rasa">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/horizon733/customer-care-chatbot">
-</p>
-
 ## 🛠 Features
 - [x] Basic E-commerce FAQ
 - [x] Basic chitchats
@@ -56,7 +43,3 @@ rasa run --enable-api --cors "*" --debug[Optional] -p {PORT}[optional]
 ```
 rasa run actions -p {PORT}[Optional]
 ```
-
-## Tutorial links:
-- [Build customer care chatbot from scratch](https://youtu.be/u6xOgR3jEMU)
-- [Send email from Rasa chatbot](https://youtu.be/UcbNmZA65pw)
